@@ -1,0 +1,19 @@
+﻿{
+  "name": "Spark",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Spark Automation",
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_title": "I am Simple Automation Extension Dev By Sai@SparkDev",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "Chapter_5_32.png"
+    }
+  }
+}
